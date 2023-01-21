@@ -10,6 +10,7 @@
 // @run-at       document-idle
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=online.rb.cz
 // @grant        none
+// @license      GPL
 // ==/UserScript==
 
 // Change this value to your credit card limit!
